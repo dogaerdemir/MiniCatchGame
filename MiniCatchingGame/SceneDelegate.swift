@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  MiniCatchingGame
-//
-//  Created by Doğa Erdemir on 25.03.2022.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
